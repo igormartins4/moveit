@@ -29,7 +29,7 @@
 
 ## Autor
 
-| [<img src="AAAAAttps://avatars.githubusercontent.com/u/23300792?s=460&u=48142b8d548e9c7d1e69a3593b614e48a5513ad0&v=4" width="100px;"><br><sub>@igormartins4</sub>](https://github.com/igormartins4) |
+| [<img src="https://avatars.githubusercontent.com/u/23300792?s=460&u=48142b8d548e9c7d1e69a3593b614e48a5513ad0&v=4" width="100px;"><br><sub>@igormartins4</sub>](https://github.com/igormartins4) |
 | :---: |
 
 <br>
